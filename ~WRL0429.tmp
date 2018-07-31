@@ -21,17 +21,17 @@ w\:* {behavior:url(#default#VML);}
 <![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Dr. Vinit Kumar</o:Author>
-  <o:LastAuthor>Swami Kundan Kishor</o:LastAuthor>
-  <o:Revision>12</o:Revision>
-  <o:TotalTime>76</o:TotalTime>
+  <o:LastAuthor>Dr. Vinit Kumar</o:LastAuthor>
+  <o:Revision>11</o:Revision>
+  <o:TotalTime>64</o:TotalTime>
   <o:Created>2017-11-02T10:43:00Z</o:Created>
-  <o:LastSaved>2018-07-31T11:05:00Z</o:LastSaved>
+  <o:LastSaved>2017-11-14T06:46:00Z</o:LastSaved>
   <o:Pages>3</o:Pages>
-  <o:Words>361</o:Words>
-  <o:Characters>2059</o:Characters>
-  <o:Lines>17</o:Lines>
-  <o:Paragraphs>4</o:Paragraphs>
-  <o:CharactersWithSpaces>2416</o:CharactersWithSpaces>
+  <o:Words>644</o:Words>
+  <o:Characters>3677</o:Characters>
+  <o:Lines>30</o:Lines>
+  <o:Paragraphs>8</o:Paragraphs>
+  <o:CharactersWithSpaces>4313</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -71,7 +71,7 @@ target="sem1_files/props009.xml">
   </w:Compatibility>
   <w:DocumentVariables>
    <w:__Grammarly_42____i>H4sIAAAAAAAEAKtWckksSQxILCpxzi/NK1GyMqwFAAEhoTITAAAA</w:__Grammarly_42____i>
-   <w:__Grammarly_42___1>H4sIAAAAAAAEAKtWcslP9kxRslIyNDY0NTGwNLAwNjK2NDcyMjBU0lEKTi0uzszPAymwqAUAs0k1KiwAAAA=</w:__Grammarly_42___1>
+   <w:__Grammarly_42___1>H4sIAAAAAAAEAKtWcslP9kxRslIyNDY0NTGwNLAwNjK2NDcyMjBU0lEKTi0uzszPAykwrwUAfFWtrSwAAAA=</w:__Grammarly_42___1>
   </w:DocumentVariables>
   <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
@@ -688,7 +688,7 @@ target="sem1_files/props009.xml">
 	mso-font-charset:0;
 	mso-generic-font-family:swiss;
 	mso-font-pitch:variable;
-	mso-font-signature:-536859905 1073786111 1 0 511 0;}
+	mso-font-signature:-536859905 -1073732485 9 0 511 0;}
 @font-face
 	{font-family:Garamond;
 	panose-1:2 2 4 4 3 3 1 1 8 3;
@@ -701,10 +701,10 @@ target="sem1_files/props009.xml">
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-parent:"";
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:8.0pt;
-	margin-left:0cm;
+	margin-left:0in;
 	line-height:105%;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
@@ -735,10 +735,10 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:8.0pt;
-	margin-left:36.0pt;
+	margin-left:.5in;
 	mso-add-space:auto;
 	line-height:105%;
 	mso-pagination:widow-orphan;
@@ -758,10 +758,10 @@ p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphC
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
 	margin-bottom:.0001pt;
 	mso-add-space:auto;
 	line-height:105%;
@@ -782,10 +782,10 @@ p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagrap
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
 	margin-bottom:.0001pt;
 	mso-add-space:auto;
 	line-height:105%;
@@ -806,10 +806,10 @@ p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxS
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
+	margin-top:0in;
+	margin-right:0in;
 	margin-bottom:8.0pt;
-	margin-left:36.0pt;
+	margin-left:.5in;
 	mso-add-space:auto;
 	line-height:105%;
 	mso-pagination:widow-orphan;
@@ -828,9 +828,9 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	{mso-style-name:msonormal;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
-	margin-right:0cm;
+	margin-right:0in;
 	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
+	margin-left:0in;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
 	font-family:"Times New Roman",serif;
@@ -859,10 +859,10 @@ span.GramE
 	mso-bidi-theme-font:minor-bidi;
 	mso-bidi-language:AR-SA;}
 @page WordSection1
-	{size:612.0pt 792.0pt;
-	margin:72.0pt 72.0pt 72.0pt 72.0pt;
-	mso-header-margin:36.0pt;
-	mso-footer-margin:36.0pt;
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
@@ -874,13 +874,13 @@ div.WordSection1
 @list l0:level1
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	margin-left:54.0pt;
-	text-indent:-36.0pt;}
+	margin-left:.75in;
+	text-indent:-.5in;}
 @list l0:level2
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;}
+	text-indent:-.25in;}
 @list l0:level3
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
@@ -889,12 +889,12 @@ div.WordSection1
 @list l0:level4
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;}
+	text-indent:-.25in;}
 @list l0:level5
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;}
+	text-indent:-.25in;}
 @list l0:level6
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
@@ -903,12 +903,12 @@ div.WordSection1
 @list l0:level7
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;}
+	text-indent:-.25in;}
 @list l0:level8
 	{mso-level-number-format:alpha-lower;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;}
+	text-indent:-.25in;}
 @list l0:level9
 	{mso-level-number-format:roman-lower;
 	mso-level-tab-stop:none;
@@ -917,141 +917,141 @@ div.WordSection1
 @list l1
 	{mso-list-id:1541817455;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-1455681996 1074331651 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+	mso-list-template-ids:964477880 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
 @list l1:level1
 	{mso-level-number-format:bullet;
-	mso-level-text:o;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
+	text-indent:-.25in;
+	font-family:Symbol;}
 @list l1:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l1:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l1:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l1:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l1:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l1:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l1:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l1:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l2
 	{mso-list-id:2135520654;
 	mso-list-type:hybrid;
-	mso-list-template-ids:1758110500 1074331651 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+	mso-list-template-ids:707160900 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
 @list l2:level1
 	{mso-level-number-format:bullet;
-	mso-level-text:o;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
+	text-indent:-.25in;
+	font-family:Symbol;}
 @list l2:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l2:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l2:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l2:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l2:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 @list l2:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Symbol;}
 @list l2:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:"Courier New";}
 @list l2:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
-	text-indent:-18.0pt;
+	text-indent:-.25in;
 	font-family:Wingdings;}
 ol
-	{margin-bottom:0cm;}
+	{margin-bottom:0in;}
 ul
-	{margin-bottom:0cm;}
+	{margin-bottom:0in;}
 -->
 </style>
 <!--[if gte mso 10]>
@@ -1064,8 +1064,8 @@ ul
 	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin:0cm;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
 	mso-para-margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
@@ -1086,10 +1086,10 @@ table.MsoTableGrid
 	mso-style-unhide:no;
 	border:solid windowtext 1.0pt;
 	mso-border-alt:solid windowtext .5pt;
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
 	mso-border-insideh:.5pt solid windowtext;
 	mso-border-insidev:.5pt solid windowtext;
-	mso-para-margin:0cm;
+	mso-para-margin:0in;
 	mso-para-margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
@@ -1113,14 +1113,14 @@ table.MsoTable15Grid4
 	mso-border-alt:solid #666666 .5pt;
 	mso-border-themecolor:text1;
 	mso-border-themetint:153;
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
 	mso-border-insideh:.5pt solid #666666;
 	mso-border-insideh-themecolor:text1;
 	mso-border-insideh-themetint:153;
 	mso-border-insidev:.5pt solid #666666;
 	mso-border-insidev-themecolor:text1;
 	mso-border-insidev-themetint:153;
-	mso-para-margin:0cm;
+	mso-para-margin:0in;
 	mso-para-margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
@@ -1201,23 +1201,21 @@ table.MsoTable15Grid4OddRow
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body lang=EN-IN link="#0563C1" vlink="#954F72" style='tab-interval:36.0pt'>
+<body lang=EN-US link="#0563C1" vlink="#954F72" style='tab-interval:.5in'>
 
 <div class=WordSection1>
 
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><b><span lang=EN-US style='font-size:
-22.0pt;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Bachelor of
-Library and Information Science<o:p></o:p></span></b></p>
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><b><span style='font-size:22.0pt;
+font-family:"Garamond",serif'>Master of Library and Information Science<o:p></o:p></span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><b><span lang=EN-US style='font-size:
-22.0pt;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Information Technology:
-Basics<o:p></o:p></span></b></p>
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><b><span style='font-size:22.0pt;
+font-family:"Garamond",serif'>Information Communication Technology<o:p></o:p></span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><b><span lang=EN-US style='font-size:
-22.0pt;font-family:"Garamond",serif;mso-ansi-language:EN-US'>(Practical)<o:p></o:p></span></b></p>
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><b><span style='font-size:22.0pt;
+font-family:"Garamond",serif'>(Theory &amp; Practice)<o:p></o:p></span></b></p>
 
 <div align=center>
 
@@ -1225,22 +1223,22 @@ text-align:center;line-height:normal'><b><span lang=EN-US style='font-size:
  style='background:#ACB9CA;mso-background-themecolor:text2;mso-background-themetint:
  102;border-collapse:collapse;border:none;mso-border-alt:solid #666666 .5pt;
  mso-border-themecolor:text1;mso-border-themetint:153;mso-yfti-tbllook:1536;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.3pt'>
   <td width=236 valign=top style='width:177.15pt;border:solid #666666 1.0pt;
   mso-border-themecolor:text1;mso-border-themetint:153;mso-border-alt:solid #666666 .5pt;
-  mso-border-themecolor:text1;mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;
+  mso-border-themecolor:text1;mso-border-themetint:153;padding:0in 5.4pt 0in 5.4pt;
   height:14.3pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><b><span style='font-size:16.0pt;
   font-family:"Garamond",serif'>Course Number<o:p></o:p></span></b></p>
   </td>
-  <td width=265 valign=top style='width:7.0cm;border:solid #666666 1.0pt;
+  <td width=265 valign=top style='width:198.45pt;border:solid #666666 1.0pt;
   mso-border-themecolor:text1;mso-border-themetint:153;border-left:none;
   mso-border-left-alt:solid #666666 .5pt;mso-border-left-themecolor:text1;
   mso-border-left-themetint:153;mso-border-alt:solid #666666 .5pt;mso-border-themecolor:
-  text1;mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:14.3pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text1;mso-border-themetint:153;padding:0in 5.4pt 0in 5.4pt;height:14.3pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><b><span style='font-size:16.0pt;
   font-family:"Garamond",serif'>Semester<o:p></o:p></span></b></p>
   </td>
@@ -1248,8 +1246,8 @@ text-align:center;line-height:normal'><b><span lang=EN-US style='font-size:
   mso-border-themecolor:text1;mso-border-themetint:153;border-left:none;
   mso-border-left-alt:solid #666666 .5pt;mso-border-left-themecolor:text1;
   mso-border-left-themetint:153;mso-border-alt:solid #666666 .5pt;mso-border-themecolor:
-  text1;mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:14.3pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text1;mso-border-themetint:153;padding:0in 5.4pt 0in 5.4pt;height:14.3pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><b><span style='font-size:16.0pt;
   font-family:"Garamond",serif'>Credits<o:p></o:p></span></b></p>
   </td>
@@ -1259,20 +1257,20 @@ text-align:center;line-height:normal'><b><span lang=EN-US style='font-size:
   mso-border-themecolor:text1;mso-border-themetint:153;border-top:none;
   mso-border-top-alt:solid #666666 .5pt;mso-border-top-themecolor:text1;
   mso-border-top-themetint:153;mso-border-alt:solid #666666 .5pt;mso-border-themecolor:
-  text1;mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:14.3pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text1;mso-border-themetint:153;padding:0in 5.4pt 0in 5.4pt;height:14.3pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span style='font-size:16.0pt;
-  font-family:"Garamond",serif'>BLIS-106<o:p></o:p></span></p>
+  font-family:"Garamond",serif'>LIS-405<o:p></o:p></span></p>
   </td>
-  <td width=265 valign=top style='width:7.0cm;border-top:none;border-left:none;
-  border-bottom:solid #666666 1.0pt;mso-border-bottom-themecolor:text1;
+  <td width=265 valign=top style='width:198.45pt;border-top:none;border-left:
+  none;border-bottom:solid #666666 1.0pt;mso-border-bottom-themecolor:text1;
   mso-border-bottom-themetint:153;border-right:solid #666666 1.0pt;mso-border-right-themecolor:
   text1;mso-border-right-themetint:153;mso-border-top-alt:solid #666666 .5pt;
   mso-border-top-themecolor:text1;mso-border-top-themetint:153;mso-border-left-alt:
   solid #666666 .5pt;mso-border-left-themecolor:text1;mso-border-left-themetint:
   153;mso-border-alt:solid #666666 .5pt;mso-border-themecolor:text1;mso-border-themetint:
-  153;padding:0cm 5.4pt 0cm 5.4pt;height:14.3pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  153;padding:0in 5.4pt 0in 5.4pt;height:14.3pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span style='font-size:16.0pt;
   font-family:"Garamond",serif'>I<o:p></o:p></span></p>
   </td>
@@ -1283,48 +1281,47 @@ text-align:center;line-height:normal'><b><span lang=EN-US style='font-size:
   mso-border-top-themecolor:text1;mso-border-top-themetint:153;mso-border-left-alt:
   solid #666666 .5pt;mso-border-left-themecolor:text1;mso-border-left-themetint:
   153;mso-border-alt:solid #666666 .5pt;mso-border-themecolor:text1;mso-border-themetint:
-  153;padding:0cm 5.4pt 0cm 5.4pt;height:14.3pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  153;padding:0in 5.4pt 0in 5.4pt;height:14.3pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span style='font-size:16.0pt;
-  font-family:"Garamond",serif'>02<o:p></o:p></span></p>
+  font-family:"Garamond",serif'>4<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
 
 </div>
 
-<p class=MsoNormal><b><span lang=EN-US style='font-family:"Garamond",serif;
-mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></b></p>
+<p class=MsoNormal><b><span style='font-family:"Garamond",serif'><o:p>&nbsp;</o:p></span></b></p>
 
-<p class=MsoNormal><b><span lang=EN-US style='font-size:18.0pt;line-height:
-105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Faculty profile:<o:p></o:p></span></b></p>
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Faculty profile:<o:p></o:p></span></b></p>
 
 <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
- 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
   height:132.9pt'>
-  <td width=668 valign=top style='width:501.15pt;padding:0cm 5.4pt 0cm 5.4pt;
+  <td width=668 valign=top style='width:501.15pt;padding:0in 5.4pt 0in 5.4pt;
   height:132.9pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:18.0pt;font-family:"Garamond",serif'>Vinit
   Kumar (Ph.D., <span class=SpellE>M.Lib.I.Sc</span>., B.Sc.)<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:18.0pt;font-family:"Garamond",serif'>Assistant
   Professor<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:18.0pt;font-family:"Garamond",serif'>School of
   Library and Information Science<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:18.0pt;font-family:"Garamond",serif'>Central
   University of Gujarat<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:18.0pt;font-family:"Garamond",serif'>Gandhinagar,
   Gujarat 382030<o:p></o:p></span></p>
   </td>
-  <td width=668 valign=top style='width:501.15pt;padding:0cm 5.4pt 0cm 5.4pt;
+  <td width=668 valign=top style='width:501.15pt;padding:0in 5.4pt 0in 5.4pt;
   height:132.9pt'>
-  <p class=MsoNormal align=right style='margin-bottom:0cm;margin-bottom:.0001pt;
+  <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-size:18.0pt;
   font-family:"Garamond",serif;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
    id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
@@ -1351,258 +1348,306 @@ mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></b></p>
    visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="sem1_files/image001.jpg" o:title="Fac_Image_201506011244436649"/>
   </v:shape><![endif]--><![if !vml]><img width=132 height=170
-  src="sem1_files/image003.jpg" alt="Fac_Image_201506011244436649" v:shapes="Picture_x0020_1"><![endif]></span><b><span
+  src="sem1_files/image002.jpg" alt="Fac_Image_201506011244436649" v:shapes="Picture_x0020_1"><![endif]></span><b><span
   style='font-size:18.0pt;font-family:"Garamond",serif'><o:p></o:p></span></b></p>
   </td>
  </tr>
 </table>
 
-<p class=MsoNormal><b><span lang=EN-US style='font-size:18.0pt;line-height:
-105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></b></p>
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Room No: </span></b><span style='font-size:18.0pt;
+line-height:105%;font-family:"Garamond",serif'>204, Sector 29, Central
+University of Gujarat, Gandhinagar.<b><o:p></o:p></b></span></p>
 
-<p class=MsoNormal><b><span lang=EN-US style='font-size:18.0pt;line-height:
-105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Objectives of the
-Course:<o:p></o:p></span></b></p>
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Objectives of the Course:<o:p></o:p></span></b></p>
 
-<p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l1 level1 lfo2'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>To introduce the students with the basics of ICT and
-related issues<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l1 level1 lfo2'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>To
+introduce the students with the basics of ICT and related issues<o:p></o:p></span></p>
 
-<p class=MsoNormal><b><span lang=EN-US style='font-size:18.0pt;line-height:
-105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Course content – (Introduction
-to the course(<a href="Sem-1-01-Introduction%20to%20the%20course(LIS-405).pptx"><span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l1 level1 lfo2'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>To study
+Hypertext, Hypermedia, Multimedia and File Formats<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l1 level1 lfo2'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>To
+understand Open Source Software<o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Course content – Theory (Introduction to the
+course(<a
+href="http://192.168.10.199/class/Sem-1-01-Introduction%20to%20the%20course(LIS-405).pptx"><span
 style='font-weight:normal'>PPT</span></a>))<o:p></o:p></span></b></p>
 
-<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l1 level1 lfo2'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Use of Operating Systems<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l1 level1 lfo2'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>Evolution
+of digital computers; Computers hardware<b>(<a
+href="http://192.168.10.199/class/Sem-1-02-Computer-hardware.ppt"><span
+style='font-weight:normal'>PPT</span></a>)</b>, software<b>(<a
+href="http://192.168.10.199/class/Sem-1-03-Software-concept-types.pptx"><span
+style='font-weight:normal'>PPT</span></a>)</b>, storage devices and their<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l1 level1 lfo2'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Creation of Database<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:18.0pt;line-height:
+105%;font-family:"Garamond",serif'>application in libraries<b>(</b>LN*<b>)</b><o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l1 level1 lfo2'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Word processors: MS-Office<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l2 level1 lfo4'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>Operating
+Systems<b>(<a
+href="http://192.168.10.199/class/Sem-1-03-Software-concept-types.pptx"><span
+style='font-weight:normal'>PPT</span></a>)</b>: Linux<b>(<a
+href="http://192.168.10.199/class/Sem-1-04-Introduction%20to%20linux.pptx"><span
+style='font-weight:normal'>PPT</span></a>)</b>, Windows, Shell programming<b>(<a
+href="http://192.168.10.199/class/Sem-1-05-shell-pgming.ppt"><span
+style='font-weight:normal'>PPT</span></a>)</b><o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l1 level1 lfo2'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Preparation of Power Point Presentation<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l2 level1 lfo4'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>Computer
+software applications - MS Office and Open Office<b>(</b>LN*<b>)</b><o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Database search and retrieval<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l2 level1 lfo4'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>Hypertext,
+Hypermedia<b>(<a
+href="http://192.168.10.199/class/Sem-1-06-Hypertext-hypermedia.ppt"><span
+style='font-weight:normal'>PPT</span></a>)</b>, Multimedia<b>(<a
+href="http://192.168.10.199/class/Sem-1-07-Multimedia-in-Libraries.pptx"><span
+style='font-weight:normal'>PPT</span></a>)</b> and File Formats(<a
+href="http://192.168.10.199/class/Sem-1-07-A-File-format-overview.pdf">PDF</a>),
+User Interfaces and data<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Simple and Advance Searching<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:18.0pt;line-height:
+105%;font-family:"Garamond",serif'>Visualization(<a
+href="http://192.168.10.199/class/Sem-1-08-User%20Interface%20_%20Data%20Visualization%201.pdf">PDF</a>)<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Creation of Email<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Creation of Social Networking Account<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><b><span lang=EN-US style='font-size:18.0pt;line-height:
-105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Method of Teaching:</span></b><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'> Lectures, Practical Sessions, Seminars, and Projects.<o:p></o:p></span></p>
-
-<p class=MsoNormal><b><span lang=EN-US style='font-size:18.0pt;line-height:
-105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Method of Assessment
-and Weightage:</span></b><span lang=EN-US style='font-size:18.0pt;line-height:
-105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'> Assignment,
-Presentation, Written Exam, Practical<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-size:18.0pt;line-height:105%;
-font-family:"Garamond",serif;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><b><span lang=EN-US style='font-size:18.0pt;line-height:
-105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Class Slides<o:p></o:p></span></b></p>
-
-<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Operating Systems<b>(<a
-href="Sem-1-03-Software-concept-types.pptx"><span style='font-weight:normal'>PPT</span></a>)</b>:
-Linux<b>(<a href="Sem-1-04-Introduction%20to%20linux.pptx"><span
-style='font-weight:normal'>PPT</span></a>)</b>, Windows<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>MS <span class=GramE>Office(</span><a
-href="Sem-1-01P-Practical-tasks.docx">Tasks</a>, <a href="Word2016_Advanced.pdf">Advanced
-Tasks</a>)<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Database Creation(MySQL)(<a href="MySQLDay1.ppt">PPT</a>)<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Internet(<a href="Sem-1-10-Internet.pptx">PPT</a>);
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l2 level1 lfo4'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>Networks
+and networking concepts(<a
+href="http://192.168.10.199/class/Sem-1-09-network_protocol.pptx">PPT</a>);
+Internet(<a href="http://192.168.10.199/class/Sem-1-10-Internet.pptx">PPT</a>);
 World Wide Web(<a href="Sem-1-11-WWW.pptx">PPT</a>); Search Engines(<a
-href="Sem-1-12-Search-Engines.pptx">PPT</a>)<o:p></o:p></span></p>
+href="http://192.168.10.199/class/Sem-1-12-Search-Engines.pptx">PPT</a>)<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Operation of computers and connecting the various
-components<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l2 level1 lfo4'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>Open
+Source Software(<a
+href="http://192.168.10.199/class/Sem-1-13-Introduction%20to%20OSS-Vinit.pdf">PDF</a>)
+applications in libraries(<a
+href="http://192.168.10.199/class/Sem-1-13-OSS-in-libraries.pptx">PPT</a>)<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Linux and Windows installation<o:p></o:p></span></p>
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Course Content - practical<o:p></o:p></span></b></p>
 
-<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Courier New";
-mso-fareast-font-family:"Courier New";mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Web searching and evaluation(<a
-href="Sem-1-14-Web-Searching.pptx">PPT</a>)(<a href="Search%20Startegy.pdf">PDF</a>)<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l2 level1 lfo4'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>Operation
+of computers and connecting the various components<o:p></o:p></span></p>
 
-<p class=MsoNormal><b><span lang=EN-US style='font-size:18.0pt;line-height:
-105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></b></p>
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l2 level1 lfo4'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>Linux
+and Windows installation<o:p></o:p></span></p>
 
-<p class=MsoNormal><b><span lang=EN-US style='font-size:18.0pt;line-height:
-105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Recommended Readings<o:p></o:p></span></b></p>
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l2 level1 lfo4'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>MS
+Office(<a href="http://192.168.10.199/class/Sem-1-01P-Practical-tasks.docx">Tasks</a>,
+<a href="http://192.168.10.199/class/Word2016_Advanced.pdf">Advanced Tasks</a>)
+and Open Office<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpFirst style='margin-left:54.0pt;mso-add-space:
-auto;text-indent:-36.0pt;mso-list:l0 level1 lfo6'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN-US style='font-size:18.0pt;
-line-height:105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Date, C.
-and Darwen, H. 1994. <i>A Guide to the SQL Standard</i>. 3rd ed. Reading, <span
-class=SpellE><span class=GramE>MA:Addison</span>-Wesley</span><o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l2 level1 lfo4'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>Web
+searching and evaluation(<a
+href="http://192.168.10.199/class/Sem-1-14-Web-Searching.pptx">PPT</a>)(<a
+href="http://192.168.10.199/class/Search%20Startegy.pdf">PDF</a>)<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='margin-left:54.0pt;mso-add-space:
-auto;text-indent:-36.0pt;mso-list:l0 level1 lfo6'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN-US style='font-size:18.0pt;
-line-height:105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Date,
-C.J. 2000. <i>An Introduction to Database Systems</i>. 7th ed. Boston, MA, USA:
-Addison-Wesley Longman<o:p></o:p></span></p>
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Method of Teaching:</span></b><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>
+Lectures, Practical Sessions, Seminars, and Projects.<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='margin-left:54.0pt;mso-add-space:
-auto;text-indent:-36.0pt;mso-list:l0 level1 lfo6'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span lang=EN-US
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Method of Assessment and Weightage:</span></b><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>
+Assignment, Presentation, Written Exam, Practical<o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>LN* = Please refer lecture notes<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Recommended Readings<o:p></o:p></span></b></p>
+
+<p class=MsoListParagraphCxSpFirst style='margin-left:.75in;mso-add-space:auto;
+text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
 style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Elmasri</span></span><span lang=EN-US
-style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>, <span class=SpellE>Ramez</span> and <span
-class=SpellE>Navathe</span>, <span class=SpellE>Shamakant</span> B. 2007. <i>Fundamentals
-of Database Systems</i>. 5th ed. Boston: Pearson/Addison Wesley<o:p></o:p></span></p>
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Arthur, Lowell Jay and Burns, Ted. 1995. Unix
+Shell Programming. New <span class=SpellE><span class=GramE>Delhi:Galgotia</span></span><o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='margin-left:54.0pt;mso-add-space:
-auto;text-indent:-36.0pt;mso-list:l0 level1 lfo6'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN-US style='font-size:18.0pt;
-line-height:105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Matthew,
-Neil and Others. 2001. <i>Professional Linux Programming.</i> Mumbai: SPD<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:54.0pt;mso-add-space:
-auto;text-indent:-36.0pt;mso-list:l0 level1 lfo6'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN-US style='font-size:18.0pt;
-line-height:105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Peterson,
-Richard. 1996. <i>Linux: <span class=GramE>the</span> Complete Reference</i>.
-New York: McGraw-Hill<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:54.0pt;mso-add-space:
-auto;text-indent:-36.0pt;mso-list:l0 level1 lfo6'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span lang=EN-US
+<p class=MsoListParagraphCxSpMiddle style='margin-left:.75in;mso-add-space:
+auto;text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
 style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>Silberschatz</span></span><span lang=EN-US
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Date, C. and Darwen, H. 1994. A Guide to the SQL
+Standard. 3rd ed. Reading, <span class=SpellE><span class=GramE>MA:Addison</span>-Wesley</span><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:.75in;mso-add-space:
+auto;text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
 style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-ansi-language:EN-US'>, A., <span class=SpellE>Korth</span>, H.F. and
-Sudarshan, S. 2006. <i>Database System Concepts</i>. 5th ed. Boston:
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Date, C.J. 2000. An Introduction to Database
+Systems. 7th ed. Boston, MA, <span class=SpellE><span class=GramE>USA:Addison</span>-Wesley</span>
+Longman<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:.75in;mso-add-space:
+auto;text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=SpellE><span style='font-size:18.0pt;
+line-height:105%;font-family:"Garamond",serif'>Elmasri</span></span><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>, <span
+class=SpellE>Ramez</span> and <span class=SpellE>Navathe</span>, <span
+class=SpellE>Shamakant</span> B. 2007. Fundamentals of Database Systems.5th ed.
+Boston: Pearson/Addison Wesley<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:.75in;mso-add-space:
+auto;text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=SpellE><span style='font-size:18.0pt;
+line-height:105%;font-family:"Garamond",serif'>Kochan</span></span><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>,
+Stephen and Wood, Patrick. 2003. Unix Shell Programming, 3rd ed. <span
+class=GramE>USA:SAMS</span><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:.75in;mso-add-space:
+auto;text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Matthew, Neil and Others. 2001. Professional
+Linux Programming. Mumbai: SPD<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:.75in;mso-add-space:
+auto;text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Michael, Randal K. 2003. Mastering UNIX Shell
+Scripting. Canada: Robert <span class=SpellE>Ispen</span><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:.75in;mso-add-space:
+auto;text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Peterson, Richard. 1996. Linux: <span
+class=GramE>the</span> Complete Reference. New York: McGraw-Hill<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:.75in;mso-add-space:
+auto;text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=SpellE><span style='font-size:18.0pt;
+line-height:105%;font-family:"Garamond",serif'>Silberschatz</span></span><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>, A., <span
+class=SpellE>Korth</span>, H.F. and Sudarshan, S. 2006. Database System
+Concepts. 5th <span class=SpellE><span class=GramE>ed.Boston</span></span>:
 McGraw-Hill International Higher Education<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='margin-left:54.0pt;mso-add-space:
-auto;text-indent:-36.0pt;mso-list:l0 level1 lfo6'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN-US style='font-size:18.0pt;
-line-height:105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Tranter,
-Jeff. 1996. <i>Linux Multimedia Guide</i>. Cambridge: O’Reilly.<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpMiddle style='margin-left:.75in;mso-add-space:
+auto;text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>10.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Tranter, Jeff. 1996. Linux Multimedia Guide.
+Cambridge: O’Reilly.<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpLast style='margin-left:54.0pt;mso-add-space:auto;
-text-indent:-36.0pt;mso-list:l0 level1 lfo6'><![if !supportLists]><span
-lang=EN-US style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
-mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN-US style='font-size:18.0pt;
-line-height:105%;font-family:"Garamond",serif;mso-ansi-language:EN-US'>Wang,
-Wallace. 2010. <i>Microsoft Office 2010 For Dummies</i>. N. Delhi: John Wiley.<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpMiddle style='margin-left:.75in;mso-add-space:
+auto;text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>11.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Wang, Wallace. 2010. Microsoft Office 2010 For
+Dummies. N. Delhi: John Wiley<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:.75in;mso-add-space:
+auto;text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>12.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:18.0pt;line-height:105%;
+font-family:"Garamond",serif'>Burke, John J. 2009. Neal-Schuman Library
+Technology Companion. Third Edition. New York: Neal-Schuman Publishers.<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpLast style='margin-left:.75in;mso-add-space:auto;
+text-indent:-.5in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif;
+mso-fareast-font-family:Garamond;mso-bidi-font-family:Garamond'><span
+style='mso-list:Ignore'>13.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=SpellE><span style='font-size:18.0pt;
+line-height:105%;font-family:"Garamond",serif'>Savitra</span></span><span
+style='font-size:18.0pt;line-height:105%;font-family:"Garamond",serif'>, <span
+class=SpellE>Sirohi</span> and Gupta, Amit. 2011. Koha 3 Library Management
+System. Mumbai: <span class=SpellE>Packt</span> Publishing<o:p></o:p></span></p>
 
 </div>
 
